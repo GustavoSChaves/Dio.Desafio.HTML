@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Título H1</h1>
+    <h2>Título H2</h2>
+    <h3>Título H3</h3>
+    <h4>Título H4</h4>
+    <h5>Título H5</h5>
+    <H6>Título H6</H6>
+    <HR></HR>
+    <P>Aqui temos um <mark>Exemplo</mark> de como usar <strong>H1</strong> até <small>H6</small></P>
+    <P>Exemlpo em <i>Itálico</i> e <u>Sublinhado</u></P>
+    <p>Exemplo em <strong>Negrito</strong></p>
+<ol>
+<li>Lista Ordenada</li>
+</ol>
+<ul>
+    <li>Lista Não Ordenada</li>
+</ul>
+<p>Exemplo com <a href="https://www.dio.me/">Link</a></p>
+<p>Exemplo com <blockquote>Blockquote</blockquote></p>
+Exemplo com <sub>Sub</sub> e  <sup>Sup</sup>
+<P>Exemplo<DEL> Riscado</DEL></P>
+<p>Abreviação<abbr title="Abreviação"> ABBR</abbr></p>
+<font>Não entendi o font</font>
+</body>
+</html>
